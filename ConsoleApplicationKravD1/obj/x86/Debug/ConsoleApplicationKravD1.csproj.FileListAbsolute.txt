@@ -1,0 +1,7 @@
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\Spec2012\ConsoleApplicationKravD1\bin\Debug\ConsoleApplicationKravD1.exe
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\Spec2012\ConsoleApplicationKravD1\bin\Debug\ConsoleApplicationKravD1.pdb
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\Spec2012\ConsoleApplicationKravD1\bin\Debug\ClassLibrarySpec2012.dll
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\Spec2012\ConsoleApplicationKravD1\bin\Debug\ClassLibrarySpec2012.pdb
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\Spec2012\ConsoleApplicationKravD1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\Spec2012\ConsoleApplicationKravD1\obj\x86\Debug\ConsoleApplicationKravD1.exe
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\Spec2012\ConsoleApplicationKravD1\obj\x86\Debug\ConsoleApplicationKravD1.pdb

@@ -1,0 +1,5 @@
+C:\Documents and Settings\bruger\Dokumenter\Visual Studio 2010\Projects\Spec2012\ClassLibrarySpec2012\bin\Debug\ClassLibrarySpec2012.dll
+C:\Documents and Settings\bruger\Dokumenter\Visual Studio 2010\Projects\Spec2012\ClassLibrarySpec2012\bin\Debug\ClassLibrarySpec2012.pdb
+C:\Documents and Settings\bruger\Dokumenter\Visual Studio 2010\Projects\Spec2012\ClassLibrarySpec2012\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\bruger\Dokumenter\Visual Studio 2010\Projects\Spec2012\ClassLibrarySpec2012\obj\Debug\ClassLibrarySpec2012.dll
+C:\Documents and Settings\bruger\Dokumenter\Visual Studio 2010\Projects\Spec2012\ClassLibrarySpec2012\obj\Debug\ClassLibrarySpec2012.pdb

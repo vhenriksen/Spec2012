@@ -1,0 +1,23 @@
+C:\Documents and Settings\bruger\Dokumenter\Visual Studio 2010\Projects\Spec2012\WpfApplication\bin\Debug\WpfApplication.exe
+C:\Documents and Settings\bruger\Dokumenter\Visual Studio 2010\Projects\Spec2012\WpfApplication\bin\Debug\WpfApplication.pdb
+C:\Documents and Settings\bruger\Dokumenter\Visual Studio 2010\Projects\Spec2012\WpfApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\bruger\Dokumenter\Visual Studio 2010\Projects\Spec2012\WpfApplication\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\bruger\Dokumenter\Visual Studio 2010\Projects\Spec2012\WpfApplication\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\bruger\Dokumenter\Visual Studio 2010\Projects\Spec2012\WpfApplication\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\bruger\Dokumenter\Visual Studio 2010\Projects\Spec2012\WpfApplication\obj\x86\Debug\WpfApplication_MarkupCompile.cache
+C:\Documents and Settings\bruger\Dokumenter\Visual Studio 2010\Projects\Spec2012\WpfApplication\obj\x86\Debug\WpfApplication.g.resources
+C:\Documents and Settings\bruger\Dokumenter\Visual Studio 2010\Projects\Spec2012\WpfApplication\obj\x86\Debug\WpfApplication.Properties.Resources.resources
+C:\Documents and Settings\bruger\Dokumenter\Visual Studio 2010\Projects\Spec2012\WpfApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\bruger\Dokumenter\Visual Studio 2010\Projects\Spec2012\WpfApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\bruger\Dokumenter\Visual Studio 2010\Projects\Spec2012\WpfApplication\obj\x86\Debug\WpfApplication.exe
+C:\Documents and Settings\bruger\Dokumenter\Visual Studio 2010\Projects\Spec2012\WpfApplication\obj\x86\Debug\WpfApplication.pdb
+C:\Documents and Settings\bruger\Dokumenter\Visual Studio 2010\Projects\Spec2012\WpfApplication\bin\Debug\ClassLibrarySpec2012.dll
+C:\Documents and Settings\bruger\Dokumenter\Visual Studio 2010\Projects\Spec2012\WpfApplication\bin\Debug\ClassLibrarySpec2012.pdb
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\Spec2012\WpfApplication\obj\x86\Debug\DialogToolCUD.baml
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\Spec2012\WpfApplication\obj\x86\Debug\DialogToolCUD.g.cs
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\Spec2012\WpfApplication\obj\x86\Debug\DialogEmployeeCUD.baml
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\Spec2012\WpfApplication\obj\x86\Debug\DialogEmployeeCUD.g.cs
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\Spec2012\WpfApplication\obj\x86\Debug\DialogComment.baml
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\Spec2012\WpfApplication\obj\x86\Debug\DialogComment.g.cs
+C:\Documents and Settings\bruger\Dokumenter\EAA\#4.semester\Specs\CD\Spec2012\WpfApplication\obj\x86\Debug\WpfApplication.exe
+C:\Documents and Settings\bruger\Dokumenter\EAA\#4.semester\Specs\CD\Spec2012\WpfApplication\obj\x86\Debug\WpfApplication.pdb
